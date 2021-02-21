@@ -36,13 +36,9 @@
 
 ### ✍ EXPRINCES
 <!-- EXPRINCE-LIST:START -->
-A computer engineer with 3 years of experience in Front-end web development and mobile applications development professional using Visual Studio & android studio make Apps
-- I have a Cisco Certification in routing, an array of services
-in the field of network clouds for several companies via the
-freelancer site – 2019.
+- A computer engineer with 3 years of experience in Front-end web development and mobile applications development professional using Visual Studio & android studio make Apps.
+- I have a Cisco Certification in routing, an array of services in the field of network clouds for several companies via thefreelancer site – 2019.
 - White hat ethical hacker worked for freelancer -2018
-- I worked as a database manager for 3 years for Freelancer
-website using Oracle -2017
-- I have 7 Programming Languages (C++, JAVA,JavaScript,PHP
-(HTML, CSS and PYTHON) 
+- I worked as a database manager for 3 years for Freelancer website using Oracle -2017.
+- I have 7 Programming Languages (C++, JAVA,JavaScript,PHP,HTML, CSS,Dart,bootstap,jqurey,NodeJS,REACT,AngularJS,UI/UX,PYTHON) 
 <!-- EXPRINCE-LIST:END -->
