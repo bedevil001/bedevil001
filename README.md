@@ -18,6 +18,6 @@
 </div>
 
 
-### A Student, Developer & Writer
+### A Computer Engineer, Developer & Writer
 
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
