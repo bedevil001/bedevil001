@@ -20,6 +20,8 @@
 
 ### A Computer Engineer, Developer & Writer
 
+<img align="right" alt="GIF" src="CE.gif" width="250" height="120" />
+
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
 
