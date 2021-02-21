@@ -32,3 +32,17 @@
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+
+
+### ✍ EXPRINCES
+<!-- EXPRINCE-LIST:START -->
+A computer engineer with 3 years of experience in Front-end web development and mobile applications development professional using Visual Studio & android studio make Apps
+- I have a Cisco Certification in routing, an array of services
+in the field of network clouds for several companies via the
+freelancer site – 2019.
+- White hat ethical hacker worked for freelancer -2018
+- I worked as a database manager for 3 years for Freelancer
+website using Oracle -2017
+- I have 7 Programming Languages (C++, JAVA,JavaScript,PHP
+(HTML, CSS and PYTHON) 
+<!-- EXPRINCE-LIST:END -->
