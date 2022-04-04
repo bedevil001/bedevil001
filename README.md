@@ -33,9 +33,18 @@
 
 ### ✍ EXPRINCES
 <!-- EXPRINCE-LIST:START -->
-- A computer engineer with 3 years of experience in Front-end web development and mobile applications development professional using Visual Studio & android studio make Apps.
-- I have a Cisco Certification in routing, an array of services in the field of network clouds for several companies via thefreelancer site – 2019.
-- White hat ethical hacker worked for freelancer -2018
-- I worked as a database manager for 3 years for Freelancer website using Oracle -2017.
-- (C++, JAVA,JavaScript,PHP,HTML, CSS,Dart,bootstap,jqurey,NodeJS,REACT,AngularJS,UI/UX,PYTHON) 
+-Almentor Feb 2022
+Mentor/Instructor
+Teaching and Mentoring Introduction to Cyber Security Course.(Still)
+-Flutter in Arabic Community Sept 2019 — Nov 2021
+Lecturer
+I have taught over three years flutter cross platform by edraak the best Arab platform for self-education with a million followers and learners on it, This platform was launched at the initiative of the Queen Rania Foundation for Education and Development. The platform was created in partnership with edX, a joint institution between the two Harvard Universities and the Massachusetts Institute of Technology, specializing in this field.
+-CyberSec Family Oct 2021
+Manage
+An online open university to teach an online computer courses for Cyber Security.
+-Software Development Engineer (IOS/Flatter) Jan 2020 — Dec 2020
+SW ENG
+Part time Software Development Engineer remote for outside companies in KSA and UAE for E-Commerce apps and web sites by freelance sites such as Freelancer - Upwork .
+-Telecom Egypt-Remote (Network IT Engineer) Jan 2019 — Jan 2020
+Network IT Engineer build and fix issues on organization with CCNA and N+ Certs.
 <!-- EXPRINCE-LIST:END -->
