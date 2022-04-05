@@ -44,7 +44,7 @@ I have taught over three years flutter cross platform by edraak the best Arab pl
 
 -CyberSec Family Oct 2021
 Manage
-An online open university to teach an online computer courses for Cyber Security.
+An online eLearning site to teach an online computer courses for Cyber Security.
 
 -Software Development Engineer (IOS/Flatter) Jan 2020 — Dec 2020
 SW ENG
